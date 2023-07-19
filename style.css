@@ -11,6 +11,10 @@ a, .hero-para {
     font-size: 18px;
 }
 
+a:hover {
+    border-bottom: 1px solid #f9faf8;
+}
+
 .flex {
     display: flex;
 }
@@ -34,7 +38,7 @@ a, .hero-para {
 }
 
 .header-links {
-    gap: 15px;
+    gap: 25px;
 }
 
 .hero {
