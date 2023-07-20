@@ -3,6 +3,8 @@ This is the repo for my second project in the TOP foundations course. The one ab
 
 Image Credits
 
+Michael Block - https://www.pexels.com/photo/photo-of-stream-during-daytime-3225517/
+
 Tatiana Syrikova - https://www.pexels.com/photo/green-pine-trees-near-lake-and-mountain-3933881/
 
 Gianluca Grisenti - https://www.pexels.com/photo/snow-covered-mountain-4215102/
