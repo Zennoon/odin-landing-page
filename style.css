@@ -34,7 +34,7 @@ a:hover {
 
 .header-and-hero {
     background: #1f2937;
-    padding: 0px 120px 90px 120px;
+    padding: 10px 120px 90px 120px;
 }
 
 .header {
@@ -51,6 +51,7 @@ a:hover {
 
 .header-links {
     gap: 25px;
+    height: 20px;
 }
 
 .hero {
